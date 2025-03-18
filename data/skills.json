@@ -1,7 +1,7 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "grouping":"Technos wzeb",
+      "skills":[ "HTML/CSS","Hugo","github pages"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
