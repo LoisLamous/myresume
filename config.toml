@@ -1,5 +1,5 @@
 title = "Loïs Lamoussière CV"
-baseURL = "https://example.com/"
+baseURL = "https://loislamous.github.io/myresume/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
