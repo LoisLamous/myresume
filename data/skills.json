@@ -1,32 +1,13 @@
 [
   {
-      "grouping":"Licence professionnelle Techniques rédactionnelles et développements numériques",
-      "skills":[ "Maquette technique","Technologie et langage web","Outils de la création numérique"]
+      "grouping":"2025 : Licence professionnelle Techniques rédactionnelles et développements numériques",
+      "skills":[ "Maquette technique","Technologie et langage web (HTML, CSS, GIT)","Outils de la création numérique (création d'un podcast, montage vidéo, Epub)", "Correction ortho-typographique","Droit du livre (papier et numérique)"]
   },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "grouping":"2021-2024 : Licence de Lettres Modernes",
+      "skills":[ "Linguistique (grammaire, morphologie, syntaxe, phonétique)","Littérature comparée (anglaise : Beloved et le Chant des revenants, cinématographique : Ran et Le roi Lear)","Littérature ultra-contemporaine (Modiano et Echenoz)","Ateliers d'écriture (élaboration de nouvelles)","Les nouvelles approches littéraires (Bande dessinée, science-fiction, polar)"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
-      "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
-  },
-  {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+      "grouping":"2021 : Baccalauréat mention Bien",
+      "skills":[ "Humanité, littérature, philosophie","LLCE espagnol","Histoire géographie, géopolitique, science politique"]
   }
 ]
