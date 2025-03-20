@@ -1,7 +1,7 @@
 [
   {
-      "grouping":"Technos web",
-      "skills":[ "HTML/CSS","Hugo","github pages"]
+      "grouping":"Licence professionnelle Techniques rédactionnelles et développements numériques",
+      "skills":[ "Maquette technique","Technologie et langage web","Outils de la création numérique"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
